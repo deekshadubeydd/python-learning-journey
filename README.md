@@ -1,2 +1,11 @@
 # python-learning-journey
-my beginner python and bioinformatics learning repository
+Hi, I'm Deeksha.
+My beginner Python and bioinformatics learning repository
+
+Currently learning
+- Python basics
+- functions and loops
+- bioinformatics fundamentals
+
+  
+
